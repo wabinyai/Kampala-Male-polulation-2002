@@ -5,4 +5,4 @@ added from a csv file.
 Circle points was also added to show the main center for the parishes in Kampala here 
 I used a few towns in the city.tsv file
 This example was addapted from the tutorial by http://bl.ocks.org/KoGor/5685876
-![Screenshot](http://localhost/Screenshot.png)
+![alt tag](http://localhost/Screenshot.png)
